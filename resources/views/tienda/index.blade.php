@@ -2,10 +2,10 @@
 
 @section('titulo','Fabio Shop')
     
-@endsection
-
 @section('contenido')
 
+<div class="super_container_inner">
+    <div class="super_overlay"></div>
 
     <!-- Home -->
 

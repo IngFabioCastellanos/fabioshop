@@ -104,9 +104,6 @@
 		</div>
 	</header>
 
-	<div class="super_container_inner">
-		<div class="super_overlay"></div>
-
 
     @yield('contenido')
 

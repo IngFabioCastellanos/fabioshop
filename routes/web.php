@@ -38,7 +38,7 @@ Route::get('/', function () {
     return $prod;
 */
 
-return view('tenda.index');
+    return view('tienda.index');
 });
 
 Auth::routes();
